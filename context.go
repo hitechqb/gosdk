@@ -2,7 +2,7 @@ package sdk
 
 import (
 	"fmt"
-	"github.com/hitech/gosdk/sdkcm"
+	"github.com/hitechqb/gosdk/sdkcm"
 	"github.com/labstack/echo/v4"
  	"github.com/sirupsen/logrus"
 	"net/http"

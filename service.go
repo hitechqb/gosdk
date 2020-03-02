@@ -1,7 +1,7 @@
 package sdk
 
 import (
-	"github.com/hitech/gosdk/sdkcm"
+	"github.com/hitechqb/gosdk/sdkcm"
 	"github.com/jinzhu/gorm"
 	"github.com/joho/godotenv"
 	"github.com/labstack/echo/v4"

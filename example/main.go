@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/hitech/gosdk"
-	"github.com/hitech/gosdk/sdkcm"
-	"github.com/hitech/gosdk/sdkplugin"
+	"github.com/hitechqb/gosdk"
+	"github.com/hitechqb/gosdk/sdkcm"
+	"github.com/hitechqb/gosdk/sdkplugin"
 	"github.com/labstack/echo/v4"
  	"log"
 )

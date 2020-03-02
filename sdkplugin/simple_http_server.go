@@ -3,8 +3,8 @@ package sdkplugin
 import (
 	"context"
 	"fmt"
-	"github.com/hitech/gosdk"
-	"github.com/hitech/gosdk/sdkcm"
+	"github.com/hitechqb/gosdk"
+	"github.com/hitechqb/gosdk/sdkcm"
 	"github.com/sirupsen/logrus"
 	"net/http"
 	"os"

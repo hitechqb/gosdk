@@ -2,8 +2,8 @@ package sdkplugin
 
 import (
 	"fmt"
-	"github.com/hitech/gosdk"
-	"github.com/hitech/gosdk/sdkcm"
+	"github.com/hitechqb/gosdk"
+	"github.com/hitechqb/gosdk/sdkcm"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 	"github.com/sirupsen/logrus"

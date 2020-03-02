@@ -3,8 +3,8 @@ package sdkplugin
 import (
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/hitech/gosdk"
-	"github.com/hitech/gosdk/sdkcm"
+	"github.com/hitechqb/gosdk"
+	"github.com/hitechqb/gosdk/sdkcm"
 	"github.com/jinzhu/gorm"
 )
 
